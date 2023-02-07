@@ -11,4 +11,4 @@ HTML, CSS, SCSS, JavaScript, boxicons, google fonts api
 
 ### Preview Image
 
-![Preview Image](url "https://drive.google.com/file/d/1iVDObtFKYW2KahoBB3WMgiWqfTPG5PW_/view?usp=sharing")
+![preview](https://user-images.githubusercontent.com/72666116/217282313-548bdd82-64a3-4f3b-a927-d34d3c8c0fc7.png)
